@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+chroma:
+  base-url: http://localhost:8000
+  collection-name: rag_documents
