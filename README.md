@@ -1,6 +1,4 @@
-Here’s a polished **README.md** draft you can use for your Java-based agentic AI products:
 
----
 
 # Agentic AI Products (Java)
 
